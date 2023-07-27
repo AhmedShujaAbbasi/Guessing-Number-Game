@@ -1,0 +1,24 @@
+div{
+    margin: 93px;
+    border: 15px solid green;
+    width: 417px;
+    height: 288px;
+    text-align: center;
+    
+}
+
+input{
+    height: 16px;
+    width: 137px;
+    padding: 1%;
+    margin: -4%;
+}
+
+button{
+    display: initial;
+    padding: 1%;
+    margin: 5%;
+    width: 14%;
+    height: 9%;
+
+}
